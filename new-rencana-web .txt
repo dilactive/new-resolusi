@@ -1,5 +1,5 @@
 Rencana web
 
-- template web
-- web absensi
+- template web : coba macam macam template web
+- web absensi : coba buat
 - web kantor
